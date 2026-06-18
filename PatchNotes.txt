@@ -1,0 +1,11 @@
+> GREED UPDATE :
+- Added Greed
+- Revamped Prelude BGs
+- Optimized Ultraturn
+- Added Ultraturn Launcher
+- Changed settings
+- Added local storage
+- Added 1-S
+- Added seasonal events
+- Added Github compatibility
+- Added Dropbox compatibility
