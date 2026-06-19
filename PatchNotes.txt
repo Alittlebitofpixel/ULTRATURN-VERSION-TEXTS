@@ -1,6 +1,7 @@
 > GREED UPDATE :
 - Added Greed
 - Revamped Prelude BGs
+- Added Prelude checkpoints
 - Optimized Ultraturn
 - Added Ultraturn Launcher
 - Changed settings
