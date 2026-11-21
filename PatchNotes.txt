@@ -10,3 +10,7 @@
 - Added Gluttony
 - Added P-1
 - Bug fixes & tweaks
+
+> LUST UPDATE:
+- Added Lust
+- Bug fixes & tweaks
