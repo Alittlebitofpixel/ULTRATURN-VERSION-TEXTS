@@ -1,12 +1,12 @@
-> GREED UPDATE :
-- Added Greed
-- Revamped Prelude BGs
-- Added Prelude checkpoints
-- Optimized Ultraturn
-- Added Ultraturn Launcher
-- Changed settings
-- Added local storage
-- Added 1-S
+> PRE-GREED UPDATE :
+- Added news
+- Improved settings
 - Added seasonal events
-- Added Github compatibility
-- Added Dropbox compatibility
+- Added commands
+- Added tutorial
+- Added local save data
+
+> GLUTTONY UPDATE :
+- Added Gluttony
+- Added P-1
+- Bug fixes & tweaks
